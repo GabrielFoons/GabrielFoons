@@ -5,8 +5,8 @@
 
 -Aqui irei organizar e compartilhar meus projetos :)
 
-![![image](https://github.com/GabrielFoons/GabrielFoons/assets/169939076/4acc2d26-7eb1-4284-bb0d-e377f5f22bdb)
-](link)
+
+
 
 
 
