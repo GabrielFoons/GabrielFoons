@@ -1,11 +1,21 @@
-### Hi there 👋
+### Olá a todos👋
+-Sou estudante trabalhando com o alura
+
+-Estou desenvolvendo minhas habilidades no curso de JavaScript
+
+-Aqui irei organizar e compartilhar meus projetos :)
+
+![![image](https://github.com/GabrielFoons/GabrielFoons/assets/169939076/4acc2d26-7eb1-4284-bb0d-e377f5f22bdb)
+](link)
+
+
 
 <!--
 **GabrielFoons/GabrielFoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
