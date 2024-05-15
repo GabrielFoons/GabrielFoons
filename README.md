@@ -1,26 +1,15 @@
-### Olá a todos👋
--Sou estudante trabalhando com o alura
+### Olá a todos, sejam bem vindos 👋
+
+Meu nome é Gabriel Fonseca
+
+-Sou estudante trabalhando com a [Alura](https://www.alura.com.br)
 
 -Estou desenvolvendo minhas habilidades no curso de JavaScript
 
 -Aqui irei organizar e compartilhar meus projetos :)
 
+### Você pode entrar em contato comigo 📫
 
+00001084574974sp@al.educacao.sp.gov.br
 
-
-
-
-<!--
-**GabrielFoons/GabrielFoons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/WPgdqk8FDZgAAAAd/slipknot-mick.gif)
